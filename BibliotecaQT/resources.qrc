@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>imgs/users.png</file>
+        <file>imgs/search_user.png</file>
+        <file>imgs/find_document.png</file>
+        <file>imgs/loan_document.png</file>
+    </qresource>
+</RCC>
